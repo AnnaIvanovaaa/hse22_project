@@ -1,4 +1,5 @@
 # hse22_project
+Сравнительная таблица
 Выбранные геномы
 Kosakonia arachidis
 Kosakonia cowanii
