@@ -1,12 +1,12 @@
 # hse22_project
 ### Сравнительная таблица 
-| Name     | Strains | Кол-во скаффолдоров | Сomplete genome | Кол-во аннотированных генов | Zh-score >500 (rows) | GC% |
-| ------------- |:---------------:|:---------:| :---------------:| :------------------:| :-------------:|:---:|
-| Kosakonia cowanii |FBS 223 chromosome|1|4685999|4687046|48721| 56,2 |
-| Kosakonia oryzae |Ola 51 chromosome|1|5416158|5416158|44116| 54 |
-| Kosakonia pseudosacchari |1.BDA62-3 chromosome 2.BDA62-3 plasmid pBDA62-3|2|1.4909996 2.93051|4909996|44208|53,9684|
-| Kosakonia radicincitans |1.DSM 107547 chromosome 2.DSM 107547 plasmid pKrDSM107547|2|1.5656428 2.118312|5656428|44815|53,9754|
-| Kosakonia sacchari |BO-1 chromosome|1|4902106|4902106|43669|53,7|
+| Name     | Strains | Кол-во скаффолдоров | Сomplete genome | Кол-во аннотированных генов | Zh-score >500 (rows) | GC% | Ср. кол-во генов |
+| ------------- |:---------------:|:---------:| :---------------:| :------------------:| :-------------:|:---:| :--------: |
+| Kosakonia cowanii |FBS 223 chromosome|1|4685999|4687046|48721| 56,2 |4349|
+| Kosakonia oryzae |Ola 51 chromosome|1|5416158|5416158|44116| 54 |5080|
+| Kosakonia pseudosacchari |1.BDA62-3 chromosome 2.BDA62-3 plasmid pBDA62-3|2|1.4909996 2.93051|4909996|44208|53,9684|4742|
+| Kosakonia radicincitans |1.DSM 107547 chromosome 2.DSM 107547 plasmid pKrDSM107547|2|1.5656428 2.118312|5656428|44815|53,9754|5386|
+| Kosakonia sacchari |BO-1 chromosome|1|4902106|4902106|43669|53,7|4632|
 
 
 
