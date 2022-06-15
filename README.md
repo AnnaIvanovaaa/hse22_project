@@ -10,3 +10,9 @@
 
 
 [Google colab](https://colab.research.google.com/drive/1WssdMdHsrc0jkykb3QoBWBLTzIkAzxwt)
+Гистограммы
+![z_1_ZH-Score](https://user-images.githubusercontent.com/93247992/173834199-a0ce2223-7931-4a12-899e-3aa1b98491e1.png)
+![z_2_ZH-Score](https://user-images.githubusercontent.com/93247992/173834211-b91ef813-ad74-4dfd-b0d8-7b4a7f91545c.png)
+![z_3_ZH-Score](https://user-images.githubusercontent.com/93247992/173834209-2459cd45-5aa6-4835-b8cb-531bc9273562.png)
+![z_4_ZH-Score](https://user-images.githubusercontent.com/93247992/173834206-50983052-17e5-454d-9d0f-cdc96dea71fe.png)
+![z_5_ZH-Score](https://user-images.githubusercontent.com/93247992/173834203-208a7362-c05d-4930-aea8-e191d7f17cd5.png)
