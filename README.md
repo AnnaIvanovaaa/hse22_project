@@ -19,3 +19,6 @@
 ![z_4_ZH-Score](https://user-images.githubusercontent.com/93247992/173834206-50983052-17e5-454d-9d0f-cdc96dea71fe.png)
 ![z_5_ZH-Score](https://user-images.githubusercontent.com/93247992/173834203-208a7362-c05d-4930-aea8-e191d7f17cd5.png)
 
+### Кластеры
+![Clusts](https://user-images.githubusercontent.com/93247992/173877176-0d03940a-e54d-4de0-b885-20eca6350357.png)
+
