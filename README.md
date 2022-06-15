@@ -24,7 +24,7 @@
 Количество кластеров: 5218
 | Номер    | Организм | Гены | Функции |
 | ------------- |:---------------:|:---------:| :-----: |
-| 1 | `oryzae` | 1.WP_007370770.1 2.WP_000103754.1 3.WP_000135199.1 4.WP_000228469.1 5.WP_000242755.1 6.WP_000462905.1 | 1.RNA polymerase sigma factor 2.RpoE acyl carrier protein 3.30S ribosomal protein S18 4.leucine-responsive transcriptional regulator Lrp 5.cAMP-activated global transcriptional regulator CRP 6.DNA-binding transcriptional regulator Fis |
+| 1 | `oryzae` | 1)WP_007370770.1 2)WP_000103754.1 3)WP_000135199.1 4)WP_000228469.1 5)WP_000242755.1 6)WP_000462905.1 | 1)RNA polymerase sigma factor 2)RpoE acyl carrier protein 3)30S ribosomal protein S18 4)leucine-responsive transcriptional regulator Lrp 5)cAMP-activated global transcriptional regulator CRP 6)DNA-binding transcriptional regulator Fis |
 | 2 | `sacchari` | WP_000003307.1 WP_000103754.1 WP_000135199.1 WP_000228469.1 WP_000242758.1 WP_000462905.1 | 
 | 4 | `cowanii` | WP_042716751.1 WP_000103754.1 WP_005974788.1 WP_000228469.1 WP_000242758.1 WP_000462905.1 |
 | 5 | `radicincitans` | WP_007370770.1 WP_000103754.1 WP_000135199.1 WP_000228469.1 WP_000242755.1 WP_000462905.1 |
